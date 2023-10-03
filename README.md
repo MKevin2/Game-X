@@ -20,8 +20,8 @@ git commit -a -m (para enviar as alterações com uma mensagem)
 <h2> Segunda Etapa - Trazendo pro GitHub</h2>
 
 ```
-git remote add origin https://github.com/MKevin2/Game-X.git (fazendo a conexão da pasta do pc ao repositório no github)
-git branch -M site (vai parear no branch que receberá os dados)
-git push -u origin site (o ato de enviar o código atual para o repositório remoto)
+git remote add origin https://github.com/MKevin2/GameX.git (fazendo a conexão da pasta do pc ao repositório no github)
+git branch -M main (vai parear no branch que receberá os dados)
+git push -u origin main (o ato de enviar o código atual para o repositório remoto)
 ```
 
